@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Enemy
+  - water
+  - Arrowin
+  - Audio torche
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Ladder
+  - Interactable
+  - Player
+  - Background
+  - Enemies
+  - Hazards
+  - arrow
+  - Bats
+  - Mushroom
+  - Bridge
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Parallax 4
+    uniqueID: 2352446235
+    locked: 0
+  - name: Parallax 3
+    uniqueID: 1965798665
+    locked: 0
+  - name: Parallax 2
+    uniqueID: 4141063491
+    locked: 0
+  - name: Parallax 1
+    uniqueID: 1120228579
+    locked: 0
+  - name: background
+    uniqueID: 2494308363
+    locked: 0
+  - name: Lava
+    uniqueID: 2432390245
+    locked: 0
+  - name: platforms
+    uniqueID: 1265984213
+    locked: 0
+  - name: Interactable
+    uniqueID: 1260913955
+    locked: 0
+  - name: Ladder
+    uniqueID: 2297990167
+    locked: 0
+  - name: Hazards
+    uniqueID: 557587779
+    locked: 0
+  - name: Mushroom
+    uniqueID: 2493997803
+    locked: 0
+  - name: Enemy
+    uniqueID: 3312905383
+    locked: 0
+  - name: bat
+    uniqueID: 3616276297
+    locked: 0
+  - name: Player
+    uniqueID: 2130004413
+    locked: 0
+  - name: Front
+    uniqueID: 3763603223
+    locked: 0
