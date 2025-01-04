@@ -28,7 +28,13 @@ Engine: Unity
 Language: C#
 Development Time: X months (Add the duration of development)
 ## 📷 Screenshots
-(Add screenshots or GIFs of the gameplay to showcase the game's atmosphere and platforming challenges.)
+![WhatARide1](./Imgs/ASadJourney1.png)
+![WhatARide4](./Imgs/ASadJourney2.png)
+![WhatARide2](./Imgs/ASadJourney3.png)
+![WhatARide1](./Imgs/ASadJourney4.png)
+![WhatARide4](./Imgs/ASadJourney5.png)
+![WhatARide2](./Imgs/ASadJourney5.png)
+---
 
 ## 📂 How to Play
 Clone the repository:
