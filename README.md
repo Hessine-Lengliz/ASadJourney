@@ -1,51 +1,47 @@
-A Sad Journey 🌌🎮
-A Sad Journey is a 2D pixel-art platformer and my very first game development project. Built with Unity and C#, this game combines handcrafted visuals, challenging levels, and engaging mechanics. It’s a tale of perseverance and self-discovery as the player navigates unique obstacles, faces enemies, and battles an epic boss to claim glory.
+# A Sad Journey 🛤️🎮
+A Sad Journey is a 2D pixel art platformer that serves as my first-ever game. Developed using Unity and C#, it offers an emotionally engaging experience as you guide a character through various levels filled with unique obstacles. Each level challenges players with accurate jumping mechanics, evading enemies (bats), navigating falling floors, and even facing a final boss. The game's central theme is about a person seeking what more life has to offer, culminating in an epic showdown to claim glory.
 
-🛠️ About the Game
-In A Sad Journey, players embark on an emotional and action-packed adventure. Each level offers a distinct experience, featuring precise platforming, dynamic obstacles, and intelligent enemy AI. The beautifully designed pixel art and animations create a nostalgic yet immersive environment that captures the essence of retro games.
+## 🛠️ About the Game
+In A Sad Journey, you embark on a journey through multiple levels, each filled with different challenges that test your platforming skills. The game features obstacles like precise jumping, escaping from enemies, navigating falling floors, and even facing a tough boss fight. Each level is designed to feel distinct and unique, providing players with fresh experiences as they progress through the game.
 
-🎯 Features
+## 🎯 Features
 Challenging Platforming
-Precision-based jumping mechanics to test timing and skill.
-Dynamic hazards like collapsing floors and evasive maneuvers.
-Engaging Enemy AI and Boss Fight
-Face tricky bat enemies powered by A* pathfinding.
-A thrilling boss battle that pushes strategy and determination.
-Custom Pixel Art and Animation
-Handmade tiles, characters, and animations created in Aseprite.
-Vibrant and unique designs for every level.
-Thematic Storyline
-A narrative of self-discovery and overcoming obstacles, brought to life through gameplay.
-🎮 Gameplay
-Objective: Traverse through diverse levels, overcome obstacles, and defeat the boss to achieve glory.
-Challenge: Master movement and platforming skills while navigating through increasingly complex challenges.
-🚀 What I Learned
-Game Development:
-
-Implemented smooth 2D movement and collision systems.
-Created intelligent enemy AI using A* pathfinding.
-Pixel Art Mastery:
-
-Designed tiles, characters, and animations from scratch using Aseprite.
-Level Design:
-
-Developed levels with unique themes and gameplay challenges to ensure variety.
-Problem-Solving and Perseverance:
-
-Overcame the hurdles of developing a complete game as a beginner.
-🔧 Built With
+Overcome various obstacles like accurate jumps, escaping enemies, and tricky platforming sequences.
+Each level introduces new challenges to keep the gameplay engaging.
+Boss Fight
+Confront a challenging boss at the end of your journey, testing all your skills learned throughout the game.
+Pixel Art Aesthetic
+Beautiful pixel art created with Aseprite, featuring unique tiles, environments, and animations.
+A Quest for Glory
+Embark on a journey to discover what more life has to offer, facing trials and tribulations along the way.
+## 🎮 Gameplay
+Objective: Guide the main character through various levels, overcoming obstacles and defeating enemies, ultimately to face the boss and claim glory.
+Challenge: The game features precise platforming, with falling floors, bats, and other enemies that require quick reflexes and strategic thinking.
+## 🚀 What I Learned
+Movement and Collision: Mastered player movement mechanics and handling collision in a platforming environment.
+A Pathfinding:* Learned how to implement pathfinding for enemy AI, particularly for bats in the game.
+Pixel Art Creation: Developed skills in pixel art using Aseprite, including creating tilesets and animations.
+Game Design: Focused on creating diverse levels, each with a unique atmosphere and set of challenges.
+Unity and C#: Gained hands-on experience with Unity and C#, building a 2D platformer from the ground up.
+## 🔧 Built With
 Engine: Unity
 Language: C#
-Tools: Aseprite (for pixel art and animations)
-Development Time: First game project
-📷 Screenshots
-(Include images or GIFs showcasing levels, enemies, and gameplay moments.)
+Development Time: X months (Add the duration of development)
+## 📷 Screenshots
+(Add screenshots or GIFs of the gameplay to showcase the game's atmosphere and platforming challenges.)
 
-
-📢 Feedback
-Thank you for trying out A Sad Journey! If you have any thoughts, suggestions, or feedback, feel free to open an issue or reach out via:
+## 📂 How to Play
+Clone the repository:
+bash
+Copy code
+git clone https://github.com/Hessine-Lengliz/ASadJourney.git
+Open the project in Unity (version XX.X.X or later).
+Press the Play button to start the game.
+Guide your character through levels and defeat the boss!
+## 📢 Feedback
+I hope you enjoy A Sad Journey! If you have any feedback, feel free to open an issue or reach out via:
 
 Email: lengliz.hessine@gmail.com
 GitHub Profile
-🛠️ Languages and Tools
-<p align="left"> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.aseprite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/aseprite/aseprite-icon.svg" alt="aseprite" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
+## 🛠️ Languages and Tools
+<p align="left"> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.aseprite.org/" target="_blank" rel="noreferrer"> <img src="https://www.aseprite.org/images/logo.png" alt="aseprite" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
